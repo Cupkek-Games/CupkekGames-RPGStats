@@ -8,9 +8,9 @@ Character stats / attributes / modifiers system. Standalone — usable without i
 
 ## Dependencies
 
-- `com.cupkekgames.core`
 - `com.cupkekgames.luna` (UI integration)
 - `com.cupkekgames.data` (stat data via IData)
+- `com.cupkekgames.services`
 
 ## Installation
 

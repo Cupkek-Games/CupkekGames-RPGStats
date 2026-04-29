@@ -22,9 +22,9 @@ com.cupkekgames.rpgstats/
 
 ## Dependencies
 
-- `com.cupkekgames.core` — utilities
 - `com.cupkekgames.luna` — UI integration (for stat display widgets)
 - `com.cupkekgames.data` — stat data persistence + IData
+- `com.cupkekgames.services`
 
 ## Coding Conventions
 
